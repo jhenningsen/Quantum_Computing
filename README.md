@@ -1,5 +1,4 @@
 # Quantum_Computing
-# Quantum Computing & Information Studies
 
 A central repository for Quantum Information Science. This project documents the transition from theoretical principles—such as single-system logic—to practical implementation across various quantum frameworks.
 
